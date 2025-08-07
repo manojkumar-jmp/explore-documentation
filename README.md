@@ -1,3 +1,5 @@
+📘 See [DISCLAIMER](https://github.com/manojkumar-jmp/.github/blob/main/DISCLAIMER.md) for legal and usage disclaimers related to this repository.
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
